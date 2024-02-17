@@ -69,7 +69,7 @@ Finally, after successful transfer, we will test the `balanceOf` function on the
 10. Test the `balanceOf` function on the Polygon Mumbai network to verify the NFTs' presence.
 
 ### Author
-dheeraj
+dheeraj -0.5
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
