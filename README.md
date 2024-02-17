@@ -68,18 +68,8 @@ Finally, after successful transfer, we will test the `balanceOf` function on the
 
 10. Test the `balanceOf` function on the Polygon Mumbai network to verify the NFTs' presence.
 
-## Commands
-
-```bash
-npm i
-npm install dotenv --save
-npx hardhat compile
-npx hardhat run scripts/deploy.js --network sepolia
-node scripts/mint-nft.js
-node scripts/approveDeposit.js
-```
 ### Author
-Sarvesh Shukla
+dheeraj
 
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
